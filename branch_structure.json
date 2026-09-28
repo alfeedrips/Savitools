@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/alert-rule-topic-not-copied",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/alert-rule-topic-not-copied": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/alert-rule-topic-not-copied",
+    "origin"
+  ]
+}
